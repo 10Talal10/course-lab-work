@@ -1,9 +1,1 @@
-# course-lab-work
-Repository for tracking progress in Advanced Internet Technology – Spring 2026.
-# Course Technologies
-
-| Technology | Description |
-|-----------|-------------|
-| Laravel   | PHP framework for backend development |
-| Next.js   | React-based framework for full-stack apps |
-| Flutter   | Cross-platform mobile development toolkit |
+<img width="1451" height="929" alt="Screenshot" src="https://github.com/user-attachments/assets/0e622c21-f483-434a-9399-04969d78f071" />
